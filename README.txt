@@ -1,4 +1,0 @@
-This data is free to use and if you want more information please contact s_alqaht@encs.concorddia.ca
-
---- raw data is 93 SE artilces (titles + abstract)
---- r scripts include lda-script.R, cox-test.R and preplexity.R
